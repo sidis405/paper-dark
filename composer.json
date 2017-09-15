@@ -1,13 +1,13 @@
 {
     "name": "sidis405/paper-dark",
     "description": "Canvas Dark Theme",
-    "keywords": ["canvas", "theme", "dark"],
+    "keywords": ["canvas", "theme", "dark", "foo"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Patrick Reid",
-            "email": "reliq@reliqarts.com"
+            "name": "Sidrit Trandafili",
+            "email": "sid@trandafili.com"
         }
     ],
     "require": {
