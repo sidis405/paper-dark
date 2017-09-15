@@ -1,5 +1,5 @@
 {
-    "name": "cnvs/paper-dark",
+    "name": "sidis405/paper-dark",
     "description": "Canvas Dark Theme",
     "keywords": ["canvas", "theme", "dark"],
     "type": "canvas-theme",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "cnvs/easel": "*"
+        "sidis405/easel": "*"
     },
     "extra": {
         "canvas-theme": {
